@@ -1,1 +1,1 @@
-Projeto feito em java utilizando o ambiente de desenvolvimento NetBeans
+Exercícios feitos em java utilizando o ambiente de desenvolvimento NetBeans
